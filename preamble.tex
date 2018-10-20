@@ -1,0 +1,68 @@
+
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{float}
+\usepackage{graphicx}
+
+%%%Todo lo de arriba viene de lyx y no se que hace
+
+\usepackage{subfiles}						%MULTIARCHIVOS, NO BORRAR
+
+%donde voy a buscar los archivos de imagenes 
+\graphicspath{{Ej1/Informe/imagenes/}{Ej1/Informe/}
+			  {Ej2/Informe/imagenes/}{Ej2/Informe/}
+			}
+
+\usepackage{nomencl}					%Para introducir nomenclaturas/definciones
+\usepackage{makecell}					%Para emprolijar celdas de tablas
+\usepackage{amsmath}
+\usepackage{amssymb}					%simbolos matematicos
+\usepackage{upgreek}					%puedo usar \uptau que es como \tau pero con mas rulito
+\usepackage{steinmetz}
+\usepackage{mathtools}
+\usepackage{placeins}
+\usepackage[textwidth=16cm]{geometry}	%texto ocupa mas ancho de pagina
+\usepackage{xcolor}						%se usa en \code
+\usepackage[american]{circuitikz}		%dibujar esquematicos y diagramas
+\usepackage[parfill]{parskip}			%pone espacio entre parrafos
+\setlength{\parindent}{10pt}			%cuanta sangria al principio de un parrafo
+\usepackage{indentfirst}				%pone sangria al primer parrafo de una seccion
+\usepackage{gensymb}
+\usepackage{textcomp}
+\usepackage[hidelinks]{hyperref}
+\usepackage{pdfpages}
+\usepackage{csvsimple}
+
+% Swap the definition of \abs* and \norm*, so that \abs
+% and \norm resizes the size of the brackets, and the 
+% starred version does not.
+\DeclarePairedDelimiter\abs{\lvert}{\rvert} %
+\makeatletter	%magia de categoria de caracteres en Tex, ignorar
+\let\oldabs\abs 
+\def\abs{\@ifstar{\oldabs}{\oldabs*}}
+\let\oldnorm\norm
+\def\norm{\@ifstar{\oldnorm}{\oldnorm*}}
+\makeatother	%magia de categoria de caracteres en Tex, ignorar
+
+%Definicion comando \parsum: hace re piola el simbolo de la suma en paralelo
+\newcommand{\parsum}{\mathbin{\!/\mkern-5mu/\!}} 
+
+%Definicion comando \code: poen el texto en fuente monoespaciada con fondo gris 
+%al estilo del codigo de stack overflow
+\definecolor{light-gray}{gray}{0.95} 
+\newcommand{\code}[1]{\colorbox{light-gray}{\texttt{#1}}}
+
+%TODOs
+\usepackage[colorinlistoftodos]{todonotes}
+
+%
+\usepackage{subcaption}
+
+
+%cambia las palabras que estan en ingles a castellano
+
+\AtBeginDocument{\renewcommand\contentsname{Índice}}
+\AtBeginDocument{\renewcommand\figurename{Figura}}
+
+
+\makeatletter
