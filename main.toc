@@ -1,91 +1,18 @@
-\contentsline {section}{\numberline {1}Introducci\'on}{4}{section.1}
-\contentsline {subsection}{\numberline {1.1}Modelo ideal}{4}{subsection.1.1}
-\contentsline {subsection}{\numberline {1.2}Otros modelos}{5}{subsection.1.2}
-\contentsline {subsection}{\numberline {1.3}Alimentaci\'on y saturaci\'on}{5}{subsection.1.3}
-\contentsline {subsection}{\numberline {1.4}Otros par\'ametros del \textit {op amp}}{6}{subsection.1.4}
-\contentsline {section}{\numberline {2}Comportamiento de Amplificadores Operacionales}{6}{section.2}
-\contentsline {subsection}{\numberline {2.1}Introducci\'on}{6}{subsection.2.1}
-\contentsline {subsection}{\numberline {2.2}Circuito inversor}{7}{subsection.2.2}
-\contentsline {subsubsection}{\numberline {2.2.1}Caso $A_{vol}$ infinito}{7}{subsubsection.2.2.1}
-\contentsline {subsubsection}{\numberline {2.2.2}Caso $A_{vol}$ finito}{7}{subsubsection.2.2.2}
-\contentsline {subsubsection}{\numberline {2.2.3}Caso $A_{vol}$ con polo dominante}{8}{subsubsection.2.2.3}
-\contentsline {subsubsection}{\numberline {2.2.4}Alinealidades del Amplificador Operacional}{11}{subsubsection.2.2.4}
-\contentsline {subsubsection}{\numberline {2.2.5}Dc sweep}{11}{subsubsection.2.2.5}
-\contentsline {subsubsection}{\numberline {2.2.6}Respuesta en frecuencia}{13}{subsubsection.2.2.6}
-\contentsline {subsubsection}{\numberline {2.2.7}Impedancia de entrada}{17}{subsubsection.2.2.7}
-\contentsline {subsubsection}{\numberline {2.2.8}Observaciones del circuito}{20}{subsubsection.2.2.8}
-\contentsline {subsection}{\numberline {2.3}Circuito no inversor}{20}{subsection.2.3}
-\contentsline {subsubsection}{\numberline {2.3.1}Caso $A_{vol}$ infinito}{20}{subsubsection.2.3.1}
-\contentsline {subsubsection}{\numberline {2.3.2}Caso $A_{vol}$ finito}{21}{subsubsection.2.3.2}
-\contentsline {subsubsection}{\numberline {2.3.3}Caso $A_{vol}$ con polo dominante}{21}{subsubsection.2.3.3}
-\contentsline {subsubsection}{\numberline {2.3.4}Dc sweep}{23}{subsubsection.2.3.4}
-\contentsline {subsubsection}{\numberline {2.3.5}Respuesta en frecuencia}{24}{subsubsection.2.3.5}
-\contentsline {subsubsection}{\numberline {2.3.6}Impedancia de entrada}{28}{subsubsection.2.3.6}
-\contentsline {subsubsection}{\numberline {2.3.7}Observaciones del circuito}{30}{subsubsection.2.3.7}
-\contentsline {subsection}{\numberline {2.4}Conclusi\IeC {\'o}n}{30}{subsection.2.4}
-\contentsline {section}{\numberline {3}Caracterizaci\'on de amplificadores operacionales}{31}{section.3}
-\contentsline {subsection}{\numberline {3.1}An\'alisis matem\'atico con modelo de polo dominante}{31}{subsection.3.1}
-\contentsline {subsection}{\numberline {3.2}M\'etodo de medici\'on}{32}{subsection.3.2}
-\contentsline {subsection}{\numberline {3.3}An\'alisis de resultados}{34}{subsection.3.3}
-\contentsline {subsubsection}{\numberline {3.3.1}Respuesta en frecuencia}{34}{subsubsection.3.3.1}
-\contentsline {subsubsection}{\numberline {3.3.2}Impedancia de entrada}{36}{subsubsection.3.3.2}
-\contentsline {subsection}{\numberline {3.4}Conclusiones}{37}{subsection.3.4}
-\contentsline {section}{\numberline {4}Medici\'on corriente de bias y tensi\'on de offset}{41}{section.4}
-\contentsline {subsection}{\numberline {4.1}Importancia de las corrientes de bias y la tensi\'on de offset}{41}{subsection.4.1}
-\contentsline {subsection}{\numberline {4.2}Circuitos con realimentaci\'on}{42}{subsection.4.2}
-\contentsline {subsection}{\numberline {4.3}Funcionamiento del circuito}{44}{subsection.4.3}
-\contentsline {subsubsection}{\numberline {4.3.1}Funcionamiento en DC: mediciones de $V_{IO}$ y $I_B$}{48}{subsubsection.4.3.1}
-\contentsline {subsubsection}{\numberline {4.3.2}Funcionamiento en AC}{48}{subsubsection.4.3.2}
-\contentsline {subsection}{\numberline {4.4}Estabilidad en diferentes configuraciones}{49}{subsection.4.4}
-\contentsline {subsubsection}{\numberline {4.4.1}Configuraci\'on consigna}{49}{subsubsection.4.4.1}
-\contentsline {subsubsection}{\numberline {4.4.2}No DUT invertido}{49}{subsubsection.4.4.2}
-\contentsline {subsubsection}{\numberline {4.4.3}Ambos invertidos}{49}{subsubsection.4.4.3}
-\contentsline {section}{\numberline {5}Circuitos integradores y derivadores}{49}{section.5}
-\contentsline {subsection}{\numberline {5.1}An\'alisis matem\'atico}{50}{subsection.5.1}
-\contentsline {subsubsection}{\numberline {5.1.1}$A_0$ infinito}{50}{subsubsection.5.1.1}
-\contentsline {subsubsection}{\numberline {5.1.2}$A_0$ finito}{51}{subsubsection.5.1.2}
-\contentsline {subsubsection}{\numberline {5.1.3}$A_{vol}(s)$}{51}{subsubsection.5.1.3}
-\contentsline {subsection}{\numberline {5.2}Derivador}{52}{subsection.5.2}
-\contentsline {subsubsection}{\numberline {5.2.1}An\'alisis matem\'atico: respuesta en frecuencia}{52}{subsubsection.5.2.1}
-\contentsline {subsubsection}{\numberline {5.2.2}An\'alisis matem\'atico: impedancia de entrada}{53}{subsubsection.5.2.2}
-\contentsline {subsubsection}{\numberline {5.2.3}An\'alisis de resultados: respuesta en frecuencia}{54}{subsubsection.5.2.3}
-\contentsline {subsubsection}{\numberline {5.2.4}An\'alisis de resultados: impedancia de entrada}{56}{subsubsection.5.2.4}
-\contentsline {subsubsection}{\numberline {5.2.5}An\'alisis de resultados: respuesta transitoria}{57}{subsubsection.5.2.5}
-\contentsline {subsection}{\numberline {5.3}Derivador compensado}{59}{subsection.5.3}
-\contentsline {subsubsection}{\numberline {5.3.1}An\'alisis matem\'atico: respuesta en frecuencia}{59}{subsubsection.5.3.1}
-\contentsline {subsubsection}{\numberline {5.3.2}An\'alisis matem\'atico: impedancia de entada}{60}{subsubsection.5.3.2}
-\contentsline {subsubsection}{\numberline {5.3.3}An\'alisis de resultados: respuesta en frecuencia}{60}{subsubsection.5.3.3}
-\contentsline {subsubsection}{\numberline {5.3.4}An\'alisis de resutlados: impedancia de entrada}{62}{subsubsection.5.3.4}
-\contentsline {subsubsection}{\numberline {5.3.5}An\'alisis de resultados: respuesta transitoria}{63}{subsubsection.5.3.5}
-\contentsline {subsection}{\numberline {5.4}Integrador}{65}{subsection.5.4}
-\contentsline {subsubsection}{\numberline {5.4.1}An\'alisis matem\'atico: respuesta en frecuencia}{65}{subsubsection.5.4.1}
-\contentsline {subsubsection}{\numberline {5.4.2}An\'alisis matem\'atico: impedancia de entrada}{66}{subsubsection.5.4.2}
-\contentsline {subsubsection}{\numberline {5.4.3}An\'alisis de resultados: respuesta en frecuencia}{67}{subsubsection.5.4.3}
-\contentsline {subsubsection}{\numberline {5.4.4}An\'alisis de resultados: impedancia de entrada}{68}{subsubsection.5.4.4}
-\contentsline {subsubsection}{\numberline {5.4.5}An\'alisis de resultados: respuesta transitoria}{69}{subsubsection.5.4.5}
-\contentsline {subsection}{\numberline {5.5}Integrador compensado}{69}{subsection.5.5}
-\contentsline {subsubsection}{\numberline {5.5.1}An\'alisis de matem\'atico}{70}{subsubsection.5.5.1}
-\contentsline {subsubsection}{\numberline {5.5.2}An\'alisis de resultados: respuesta en frecuencia}{71}{subsubsection.5.5.2}
-\contentsline {subsubsection}{\numberline {5.5.3}An\'alisis de resultados: impedancia de entrada}{72}{subsubsection.5.5.3}
-\contentsline {subsubsection}{\numberline {5.5.4}An\'alisis de resultados: respuesta transitoria}{73}{subsubsection.5.5.4}
-\contentsline {subsection}{\numberline {5.6}Conclusiones}{74}{subsection.5.6}
-\contentsline {section}{\numberline {6}Pedal de Distorsi\IeC {\'o}n}{75}{section.6}
-\contentsline {subsection}{\numberline {6.1}Introducci\IeC {\'o}n}{75}{subsection.6.1}
-\contentsline {subsection}{\numberline {6.2}Consideraciones de dise\~no}{77}{subsection.6.2}
-\contentsline {subsection}{\numberline {6.3}Dise\~no del circuito}{77}{subsection.6.3}
-\contentsline {subsubsection}{\numberline {6.3.1}Secci\'on de alimentaci\'on}{78}{subsubsection.6.3.1}
-\contentsline {subsubsection}{\numberline {6.3.2}Secci\'on de clipping}{79}{subsubsection.6.3.2}
-\contentsline {subsubsection}{\numberline {6.3.3}Secci\'on de amplificaci\'on}{80}{subsubsection.6.3.3}
-\contentsline {subsection}{\numberline {6.4}Implementaci\IeC {\'o}n del circuito y valores elegidos}{82}{subsection.6.4}
-\contentsline {subsection}{\numberline {6.5}Simulaciones}{82}{subsection.6.5}
-\contentsline {subsection}{\numberline {6.6}Mediciones y contraste con simulaci\IeC {\'o}n}{83}{subsection.6.6}
-\contentsline {section}{\numberline {7}Sensor de Temperatura}{85}{section.7}
-\contentsline {subsection}{\numberline {7.1}Introducci\IeC {\'o}n}{85}{subsection.7.1}
-\contentsline {subsection}{\numberline {7.2}An\IeC {\'a}lisis del LM35 y condiciones a tener en cuenta}{86}{subsection.7.2}
-\contentsline {subsection}{\numberline {7.3}Cambio de rango operacional}{86}{subsection.7.3}
-\contentsline {subsection}{\numberline {7.4}Protecci\IeC {\'o}n del circuito a conectar}{88}{subsection.7.4}
-\contentsline {subsection}{\numberline {7.5}Calibraci\IeC {\'o}n del sensor}{90}{subsection.7.5}
-\contentsline {subsection}{\numberline {7.6}Implementaci\IeC {\'o}n del circuito}{92}{subsection.7.6}
-\contentsline {subsection}{\numberline {7.7}Mediciones y conclusi\IeC {\'o}n}{92}{subsection.7.7}
-\contentsline {subsection}{\numberline {7.8}Datasheet}{93}{subsection.7.8}
-\contentsline {section}{\numberline {8}Anexo}{96}{section.8}
+\contentsline {section}{\numberline {1}Comparaci\IeC {\'o}n de los metodos de medici\IeC {\'o}n de equilibrio de puentes}{2}{section.1}
+\contentsline {section}{\numberline {2}Puente de Wien}{3}{section.2}
+\contentsline {subsection}{\numberline {2.1}Dise\IeC {\~n}o del puente}{3}{subsection.2.1}
+\contentsline {subsubsection}{\numberline {2.1.1}Elecci\IeC {\'o}n de componentes}{3}{subsubsection.2.1.1}
+\contentsline {subsubsection}{\numberline {2.1.2}An\'alisis de sensibilidades}{3}{subsubsection.2.1.2}
+\contentsline {subsubsection}{\numberline {2.1.3}Mediciones}{6}{subsubsection.2.1.3}
+\contentsline {subsubsection}{\numberline {2.1.4}Convergencia del puente}{6}{subsubsection.2.1.4}
+\contentsline {subsubsection}{\numberline {2.1.5}Conclusi\IeC {\'o}n}{7}{subsubsection.2.1.5}
+\contentsline {section}{\numberline {3}Medici\IeC {\'o}n de capacitores}{7}{section.3}
+\contentsline {subsection}{\numberline {3.1}Elecci\IeC {\'o}n de componentes}{7}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}An\'alisis de sensibilidades}{8}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}Calculo del error}{8}{subsection.3.3}
+\contentsline {subsection}{\numberline {3.4}Convergencia}{9}{subsection.3.4}
+\contentsline {subsection}{\numberline {3.5}Manual de uso}{10}{subsection.3.5}
+\contentsline {subsection}{\numberline {3.6}Mediciones}{10}{subsection.3.6}
+\contentsline {subsubsection}{\numberline {3.6.1}Analizador de impedancia}{10}{subsubsection.3.6.1}
+\contentsline {subsubsection}{\numberline {3.6.2}Puente}{11}{subsubsection.3.6.2}
+\contentsline {subsection}{\numberline {3.7}Conclusi\IeC {\'o}n}{12}{subsection.3.7}
